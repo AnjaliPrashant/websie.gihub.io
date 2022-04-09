@@ -1,0 +1,92 @@
+h1 {
+    font-style: oblique;
+    background-color: rgb(110, 235, 99);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: solid;
+}
+
+h2 {
+    font-style: oblique;
+    background-color: rgb(110, 235, 99);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: solid;
+}
+
+h3 {
+    font-style: oblique;
+    background-color: rgb(110, 235, 99);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-style: solid;
+
+}
+
+body {
+    background-color: rgb(243, 135, 63);
+}
+
+#animal1 {
+    border-style: solid;
+}
+
+#animal2 {
+    border-style: solid;
+}
+
+#animal3 {
+    border-style: solid;
+}
+
+#animal4 {
+    border-style: solid;
+}
+
+#animal1 {
+    border-style: solid;
+}
+
+#animal5 {
+    border-style: solid;
+}
+
+#bird1 {
+    border-style: solid;
+}
+
+#bird2 {
+    border-style: solid;
+}
+
+#bird3 {
+    border-style: solid;
+}
+
+#bird4 {
+    border-style: solid;
+}
+
+#bird5 {
+    border-style: solid;
+}
+
+#human1 {
+    border-style: solid;
+}
+
+#human2 {
+    border-style: solid;
+}
+
+#human3 {
+    border-style: solid;
+}
+
+#human4 {
+    border-style: solid;
+}
+
+#human5 {
+    border-style: solid;
+}
